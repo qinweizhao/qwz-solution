@@ -11,5 +11,8 @@
     <packaging>pom</packaging>
     <description>解决方案</description>
 
+    <modules>
+        <module>toes</module>
+    </modules>
 
 </project>
